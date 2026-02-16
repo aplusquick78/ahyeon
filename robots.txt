@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahyeon.8222quick.com/sitemap.xml
+
+
+
